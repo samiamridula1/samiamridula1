@@ -2,7 +2,8 @@
 
 ## 
 - ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) — Core programming
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) — Web development fundamentals  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) — Web development fundamentals
+- ![MySql](https://img.shields.io/badge/JavaScript-F7DF1E?logo=MySQL&logoColor=black) 
 - ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) — Frontend frameworks  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) 
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) — Backend development  

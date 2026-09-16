@@ -14,11 +14,8 @@
 - ![Express.js](https://img.shields.io/badge/Express.js-ff1493?logo=express&logoColor=white&style=for-the-badge)  - ![HTML5](https://img.shields.io/badge/HTML5-ffc0cb?logo=html5&logoColor=white&style=for-the-badge)  -![CSS](https://img.shields.io/badge/CSS-ff1493?logo=css3&logoColor=white&style=for-the-badge)   
 
 **AI Tools (Learning):**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff1493?logo=tensorflow&logoColor=white&style=for-the-badge)  
-![PyTorch](https://img.shields.io/badge/PyTorch-ffc0cb?logo=pytorch&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-ff1493?logo=pytorch&logoColor=white&style=for-the-badge)  
-![LangChain](https://img.shields.io/badge/LangChain-ffc0cb?logo=chainlink&logoColor=white&style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-ff1493?logo=chainlink&logoColor=white&style=for-the-badge)  
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ffc0cb?logo=scikitlearn&logoColor=white&style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ff1493?logo=scikitlearn&logoColor=white&style=for-the-badge)  
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff1493?logo=tensorflow&logoColor=white&style=for-the-badge)  ![PyTorch](https://img.shields.io/badge/PyTorch-ffc0cb?logo=pytorch&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-ffc0cb?logo=chainlink&logoColor=white&style=for-the-badge) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ffc0cb?logo=scikitlearn&logoColor=white&style=for-the-badge) 
 ---
 
 ## 🛠 Technology Stack

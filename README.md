@@ -2,6 +2,8 @@
 
 *We code, we don’t judge.*    
 
+ *I love Coding in Python *  
+
 ---
 
 ## 🛠 Skills & Tools

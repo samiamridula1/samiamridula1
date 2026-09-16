@@ -2,8 +2,8 @@
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
-  <p style="font-size: 1.4em; font-style: italic; color: #ff69b4; 
-            text-shadow: 0 0 8px #ff69b4, 0 0 12px #ff1493;">
+  <p style="font-size: 1.4em; font-style: italic; color: #02D8E9; 
+            text-shadow: 0 0 8px #02D8E9, 0 0 12px #ff1493;">
       We code, we don’t judge. 
   </p>
 

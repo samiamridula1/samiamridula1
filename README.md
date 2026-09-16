@@ -1,8 +1,8 @@
 # Hi, I'm Mridula  
 
-                                                                                                                                         *We code, we don’t judge.*    
+                                                                                               *We code, we don’t judge.*    
 
-                                                                                                                                          *"I love Coding in Python."*  
+                                                                                               *"I love Coding in Python."*  
 
 ---
 

@@ -1,4 +1,4 @@
-# Hi, I'm Mridula  
+# Hi
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 

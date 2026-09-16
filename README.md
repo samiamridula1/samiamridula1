@@ -6,7 +6,7 @@
 
 ## 🛠 Skills & Tools
 
-- ![Python](https://img.shields.io/badge/Python-ffc0cb?logo=python&logoColor=white) ![Python](https://img.shields.io/badge/Python-ff1493?logo=python&logoColor=white) — Core programming  ![JavaScript](https://img.shields.io/badge/JavaScript-ffc0cb?logo=javascript&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-ff1493?logo=mysql&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-ff1493?logo=python&logoColor=white)  - ![JavaScript](https://img.shields.io/badge/JavaScript-ffc0cb?logo=javascript&logoColor=black) - ![MySQL](https://img.shields.io/badge/MySQL-ff1493?logo=mysql&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-ffc0cb?logo=react&logoColor=black) ![React](https://img.shields.io/badge/React-ff1493?logo=react&logoColor=black) — Frontend frameworks  
 - ![TypeScript](https://img.shields.io/badge/TypeScript-ffc0cb?logo=typescript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-ff1493?logo=typescript&logoColor=white)  
 - ![Node.js](https://img.shields.io/badge/Node.js-ffc0cb?logo=node.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-ff1493?logo=node.js&logoColor=white) — Backend development  

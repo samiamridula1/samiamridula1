@@ -8,8 +8,7 @@
 
 - ![Python](https://img.shields.io/badge/Python-ff1493?logo=python&logoColor=white)  - ![JavaScript](https://img.shields.io/badge/JavaScript-ffc0cb?logo=javascript&logoColor=black) - ![MySQL](https://img.shields.io/badge/MySQL-ff1493?logo=mysql&logoColor=white)  
 - ![React](https://img.shields.io/badge/React-ffc0cb?logo=react&logoColor=black) ![React](https://img.shields.io/badge/React-ff1493?logo=react&logoColor=black) — Frontend frameworks  
-- ![TypeScript](https://img.shields.io/badge/TypeScript-ffc0cb?logo=typescript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-ff1493?logo=typescript&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/Node.js-ffc0cb?logo=node.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-ff1493?logo=node.js&logoColor=white) — Backend development  
+- ![TypeScript](https://img.shields.io/badge/TypeScript-ff1493?logo=typescript&logoColor=white)  - ![Node.js](https://img.shields.io/badge/Node.js-ffc0cb?logo=node.js&logoColor=white) — Backend development  
 - ![Express.js](https://img.shields.io/badge/Express.js-ffc0cb?logo=express&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-ff1493?logo=express&logoColor=white)  
 - ![HTML5](https://img.shields.io/badge/HTML5-ffc0cb?logo=html5&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-ff1493?logo=html5&logoColor=white)  
 - ![CSS](https://img.shields.io/badge/CSS-ffc0cb?logo=css3&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-ff1493?logo=css3&logoColor=white)  

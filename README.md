@@ -1,11 +1,21 @@
 # Hi, I'm Mridula  
 
-*We code, we don’t judge.*  
-*"I love Coding in Python."*  
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
----
+  <p style="font-size: 1.4em; font-style: italic; color: #ff69b4; 
+            text-shadow: 0 0 8px #ff69b4, 0 0 12px #ff1493;">
+      We code, we don’t judge. 
+  </p>
 
-## 🛠 Skills & Tools
+  <p style="font-size: 1.3em; font-style: italic; color: #ff69b4; 
+            text-shadow: 0 0 8px #ff69b4, 0 0 12px #ff1493;">
+    "I love Coding in Python."
+  </p>
+
+</div>
+
+
+##  Skills & Tools
 
 <div align="center">
 
@@ -23,7 +33,7 @@
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 | **Category**       | **Technologies** |
 |---------------------|------------------|

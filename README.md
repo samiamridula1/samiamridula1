@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-ff1493?logo=python&logoColor=white&style=for-the-badge" style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />  
+<img src="https://img.shields.io/badge/Python-ff1493?logo=python&logoColor=white&style=for-the-badge" style="transform: scale(1.3); filter: drop-shadow(0 0 12px #02D8E9);" />  
 <img src="https://img.shields.io/badge/JavaScript-ffc0cb?logo=javascript&logoColor=black&style=for-the-badge" style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />  
 <img src="https://img.shields.io/badge/MySQL-ff1493?logo=mysql&logoColor=white&style=for-the-badge" style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />  
 <img src="https://img.shields.io/badge/React-ffc0cb?logo=react&logoColor=black&style=for-the-badge" style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />  

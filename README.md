@@ -32,3 +32,28 @@
 | **Data Science**    | <img src="https://img.shields.io/badge/Pandas-ffc0cb?logo=pandas&logoColor=white&style=for-the-badge" style="transform: scale(1.2); filter: drop-shadow(0 0 12px #ff69b4);" /> <img src="https://img.shields.io/badge/NumPy-ff1493?logo=numpy&logoColor=white&style=for-the-badge" style="transform: scale(1.2); filter: drop-shadow(0 0 12px #ff69b4);" /> <img src="https://img.shields.io/badge/Matplotlib-ffc0cb?logo=plotly&logoColor=white&style=for-the-badge" style="transform: scale(1.2); filter: drop-shadow(0 0 12px #ff69b4);" /> |
 | **Databases**       | <img src="https://img.shields.io/badge/MongoDB-ff1493?logo=mongodb&logoColor=white&style=for-the-badge" style="transform: scale(1.2); filter: drop-shadow(0 0 12px #ff69b4);" /> <img src="https://img.shields.io/badge/MySQL-ffc0cb?logo=mysql&logoColor=white&style=for-the-badge" style="transform: scale(1.2); filter: drop-shadow(0 0 12px #ff69b4);" /> |
 
+---
+
+##  Connect with Me
+
+<div align="center">
+
+<!-- GitHub -->
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" 
+       style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" 
+       style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />
+</a>
+
+<!-- Facebook -->
+<a href="https://facebook.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" 
+       style="transform: scale(1.3); filter: drop-shadow(0 0 12px #ff69b4);" />
+</a>
+
+</div>

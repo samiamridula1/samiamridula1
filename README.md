@@ -72,6 +72,14 @@ CSE student at **BRAC University**
 ---
 
 ## 📫 Connect
+## 📫 Connect
+
+<p align="center">
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+    <img src="https://img.shields.io/badge/Discord-mriduladying-ff69b4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
 
 
 

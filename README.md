@@ -31,6 +31,7 @@ CSE student at **BRAC University**
   <img src="https://img.shields.io/badge/Express-ff69b4?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-ff1493?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/MySQL-ff1493?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
